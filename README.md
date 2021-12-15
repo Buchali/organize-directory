@@ -1,6 +1,6 @@
 # Organize a Directory
 
-Organize a directory by separating files between different directories based on their extensions.
+Organize a directory by moving files to sub directories based on their extensions.
 
 First, add `src` to `PAYTHONPATH`:
 ```
